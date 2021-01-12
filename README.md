@@ -8,10 +8,11 @@
 
 * _HTML_
 * _CSS_
+* _javaScript_
 
 ## Description
 
-_This is a website that is mostly composed of Lorem Ipsum. It is a practice site to practice making divs and adding classes to them!_
+_This is a website that is mostly composed of Lorem Ipsum. It is a practice site to practice making divs and adding classes to them! Click on a parapgraph to see what happens!_
 
 ## Setup/Installation Requirements
 

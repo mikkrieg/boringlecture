@@ -24,5 +24,11 @@ img.intro{
 
 }
 
+.highlight {
+  background-color: #FFFF00;
+}
 
+.box {
+  border: 10px solid #000;
+}
 
